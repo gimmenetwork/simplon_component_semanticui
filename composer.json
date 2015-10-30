@@ -17,7 +17,7 @@
   "extra": {
     "component": {
       "files": [
-        "jquery/2.1.x/jquery-2.1.x.min.js",
+        "jquery/2.1.x/jquery.min.js",
         "semantic-ui/2.1.x/themes/basic/assets/fonts/icons.eot",
         "semantic-ui/2.1.x/themes/basic/assets/fonts/icons.svg",
         "semantic-ui/2.1.x/themes/basic/assets/fonts/icons.ttf",
