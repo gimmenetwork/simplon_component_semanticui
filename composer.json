@@ -176,7 +176,11 @@
         "semantic-ui/2.2.x/semantic.css",
         "semantic-ui/2.2.x/semantic.min.css",
         "semantic-ui/2.2.x/semantic.js",
-        "semantic-ui/2.2.x/semantic.min.js"
+        "semantic-ui/2.2.x/semantic.min.js",
+        "semantic-calendar/0.0.x/calendar.css",
+        "semantic-calendar/0.0.x/calendar.min.css",
+        "semantic-calendar/0.0.x/calendar.js",
+        "semantic-calendar/0.0.x/calendar.min.js"
       ]
     }
   }
