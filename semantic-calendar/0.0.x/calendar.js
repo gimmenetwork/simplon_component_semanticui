@@ -1,6 +1,7 @@
 /*
  * # Semantic UI 0.0.8 - Calendar
  * http://github.com/semantic-org/semantic-ui/
+ * https://github.com/mdehoog/Semantic-UI-Calendar
  *
  *
  * Released under the MIT license
