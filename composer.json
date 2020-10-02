@@ -1,5 +1,5 @@
 {
-  "name": "simplon/component_semanticui",
+  "name": "gimmenetwork/simplon_component_semanticui",
   "type": "component",
   "description": "Semantic empowers designers and developers by creating a shared vocabulary for UI.",
   "homepage": "http://www.semantic-ui.com",
@@ -11,8 +11,14 @@
       "role": "Creator"
     }
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/gimmenetwork/simplon_components"
+    }
+  ],
   "require": {
-    "simplon/components": "*"
+    "gimmenetwork/simplon_components": "*"
   },
   "extra": {
     "component": {
