@@ -17,6 +17,9 @@
       "url": "https://github.com/gimmenetwork/simplon_components"
     }
   ],
+  "replace": {
+    "simplon/component_semanticui": "0.0.*"
+  },
   "require": {
     "gimmenetwork/simplon_components": "*"
   },
